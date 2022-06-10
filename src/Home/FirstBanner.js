@@ -6,9 +6,9 @@ const FirstBanner = () => {
     <div>
       <div
         class="hero h-96"
-        style={{backgroundImage: `url(${img})`}}
+        // style={{backgroundImage: `url(${img})`}}
       >
-        <div class="hero-overlay bg-opacity-60"></div>
+        <div class="hero-overlay bg-black"></div>
         <div class="hero-content  text-neutral-content">
           <div class="">
             <h1 class="mb-5 text-5xl font-bold">Hello there</h1>
@@ -17,7 +17,7 @@ const FirstBanner = () => {
             <p class="mb-5 text-2xl">
               I do web development and it's my passion, love, and addiction.  
             </p>
-            <a className="btn btn-primary" href="https://drive.google.com/file/d/1MyPg_O0vjATSZkWjNLFly3rdx-_LFBRD/view?usp=sharing"> Download My CV</a>
+            <a className="btn btn-black" href="https://drive.google.com/file/d/1MyPg_O0vjATSZkWjNLFly3rdx-_LFBRD/view?usp=sharing"> Download My Resume</a>
           </div>
         </div>
       </div>

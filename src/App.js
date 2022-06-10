@@ -1,4 +1,5 @@
 import './App.css';
+import AboutMe from './Home/AboutMe';
 import FirstBanner from './Home/FirstBanner';
 import Navbar from './Home/Navbar';
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Navbar>
         <FirstBanner></FirstBanner>
+        <AboutMe></AboutMe>
       </Navbar>
       </>
   );

@@ -7,7 +7,7 @@ const Navbar = ({ children }) => {
         <input id="my-drawer-3" type="checkbox" class="drawer-toggle" />
         <div class="drawer-content flex flex-col">
           {/* <!-- Navbar --> */}
-          <div class="w-full navbar bg-base-300">
+          <div class="w-full navbar bg-white">
           <div class="flex-1 px-2 mx-2">
               <img
                 className="w-36 h-16"
@@ -37,13 +37,13 @@ const Navbar = ({ children }) => {
               <ul class="menu menu-horizontal">
                 {/* <!-- Navbar menu content here --> */}
                 <li>
-                  <a>Home</a>
+                  <a className="font-bold">Home</a>
                 </li>
                 <li>
-                  <a>About Me</a>
+                  <a className="font-bold">About Me</a>
                 </li>
                 <li>
-                  <a>Contact Me</a>
+                  <a className="font-bold">Contact Me</a>
                 </li>
               </ul>
             </div>
@@ -56,10 +56,10 @@ const Navbar = ({ children }) => {
           <ul class="menu p-4 overflow-y-auto w-80 bg-base-100">
             {/* <!-- Sidebar content here --> */}
             <li>
-              <a>Home</a>
+              <a className="font-bold">Home</a>
             </li>
             <li>
-              <a>Contact Me</a>
+              <a className="font-bold">Contact Me</a>
             </li>
           </ul>
         </div>
