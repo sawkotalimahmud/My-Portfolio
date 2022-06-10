@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1",
+      "picture": "https://i.ibb.co/S5drXNJ/HTML5-logo.png",
+      "name": "HTML"
+     },
+    {
+      "id": "2",
+      "picture": "https://i.ibb.co/89T3bWP/css3-logo-png-transparent.png",
+      "name": "CSS"
+     },
+    {
+      "id": "3",
+      "picture": "https://i.ibb.co/sgbhXPJ/Tailwind-logo-removebg-preview.png",
+      "name": "Tailwind CSS"
+     },
+    {
+      "id": "4",
+      "picture": "https://i.ibb.co/ZJ8vYLg/bootstrap-logo-removebg-preview.png",
+      "name": "Bootstrap CSS"
+     },
+    {
+      "id": "5",
+      "picture": "https://i.ibb.co/j82DD2c/Javascript-Logo.png",
+      "name": "Javascript"
+     },
+    {
+      "id": "6",
+      "picture": "https://i.ibb.co/bL3VCd5/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail-removebg-previe.png",
+      "name": "React"
+     },
+    {
+      "id": "7",
+      "picture": "https://i.ibb.co/Mngpykh/nodejs-logo-removebg-preview.png",
+      "name": "Node.Js"
+     },
+    {
+      "id": "8",
+      "picture": "https://i.ibb.co/2FHPyqs/mongodb-logo-removebg-preview-removebg-preview.png",
+      "name": "MongoDB"
+     },
+    {
+      "id": "9",
+      "picture": "https://i.ibb.co/zSwRQxh/Expressjs-png-removebg-preview.png",
+      "name": "Express.js"
+     },
+    {
+      "id": "10",
+      "picture": "https://i.ibb.co/NCy0kHL/firebase-logo.png",
+      "name": "Firebase"
+     }
+  ]
