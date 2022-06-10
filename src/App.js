@@ -1,4 +1,6 @@
 import './App.css';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import ContactMe from './ContactMe';
 import AboutMe from './Home/AboutMe';
 import FirstBanner from './Home/FirstBanner';
@@ -16,6 +18,7 @@ function App() {
         <ContactMe></ContactMe>
         <Footer></Footer>
       </Navbar>
+      <ToastContainer/>
       </>
   );
 }
